@@ -12,6 +12,8 @@
 - 📦 Chocolatey / Winget (управление ПО)
 - 📄 Active Directory + Group Policy
 - 🔐 WSUS, RDP, RemoteApp, VSS, и другие сервисы
+- ☁️ Веб-серверы IIS, Apache, Nginx и тд;
+- ☁️ CMS: Wordpress, Joomla, Drupal, OpenCart, phpBB, SMF и др;
 - 🛠️ CI/CD: GitHub Actions, Jenkins (на Windows)
 - 📊 Мониторинг: Zabbix, Grafana (Windows agents)
 - 🗃️ Резервное копирование: Veeam, Duplicati
