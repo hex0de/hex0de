@@ -19,9 +19,13 @@
 ## 📂 Мои репозитории на Github
 
 🛠️ **PowerShell-Toolbox** — сборник утилит и скриптов  
+
 📦 **Windows-Server-AutoDeploy** — автоконфигуратор нового Windows-сервера  
+
 ☁️ **HyperV-Scripts** — управление виртуализацией через PowerShell
+
 📊 **Zabbix-Windows-Monitoring** — шаблоны и агенты для мониторинга серверов
+
 ☁️ **Firewall-Rules-PowerShell** — безопасность/защита от DDoS-атак. Автоматическая блокировка IP адресов по Geo
 
 ## 📫 Контакты
