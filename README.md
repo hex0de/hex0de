@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет, я Vlad Imir!
 
-<!--
-**hex0de/hex0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Системный администратор / DevOps-инженер с 17 летним опытом работы в Windows-инфраструктуре, виртуализации и автоматизации.  
+Работаю с Windows Server, Hyper-V, VMware, PowerShell, Active Directory, а также инструментами CI/CD и мониторинга.
 
-Here are some ideas to get you started:
+## 🧠 Навыки и стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Windows Server (AD, DNS, DHCP, GPO)
+- ☁️ Виртуализация: Hyper-V, VMware ESXi
+- ⚙️ PowerShell (автоматизация задач, скрипты, модули)
+- 📦 Chocolatey / Winget (управление ПО)
+- 📄 Active Directory + Group Policy
+- 🔐 WSUS, RDP, RemoteApp, VSS, и другие сервисы
+- 🛠️ CI/CD: GitHub Actions, Jenkins (на Windows)
+- 📊 Мониторинг: Zabbix, Grafana (Windows agents)
+- 🗃️ Резервное копирование: Veeam, Duplicati
+
+## 📂 Лучшие репозитории
+
+🛠️ **PowerShell-Toolbox** — сборник утилит и скриптов  
+📦 **Windows-Server-AutoDeploy** — автоконфигуратор нового Windows-сервера  
+📊 **Zabbix-Windows-Monitoring** — шаблоны и агенты для мониторинга серверов  
+☁️ **HyperV-Scripts** — управление виртуализацией через PowerShell
+
+## 📫 Контакты
+
+- Email: bogdanov.evm@gmail.com  
+- Telegram: [hex0de](https://t.me/hex0de)  
+- LinkedIn: [djevm](https://linkedin.com/in/yourprofile)
