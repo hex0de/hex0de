@@ -35,5 +35,4 @@
 ## 📫 Контакты
 
 - Email: bogdanov.evm@gmail.com  
-- Telegram: [hex0de](https://t.me/hex0de)  
-- LinkedIn: [djevm](https://linkedin.com/in/yourprofile)
+- Telegram: [hex0de](https://t.me/hex0de)
