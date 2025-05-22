@@ -22,7 +22,7 @@
 
 🔐 **[Схема защиты сервера от DDoS-атак](https://github.com/hex0de/DDoS-protection-scheme)** — наглядно построение и защита серверной инфраструктуры
 
-🛠️ **[PowerShell-Toolbox](https://github.com/hex0de/PowerShell-Toolbox))** — сборник утилит и скриптов  
+🛠️ **[PowerShell-Toolbox](https://github.com/hex0de/PowerShell-Toolbox)** — сборник утилит и скриптов  
 
 📦 **Windows-Server-AutoDeploy** — автоконфигуратор нового Windows-сервера  
 
