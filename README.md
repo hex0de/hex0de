@@ -17,6 +17,7 @@
 - 🛠️ CI/CD: GitHub Actions, Jenkins (на Windows)
 - 📊 Мониторинг: Zabbix, Grafana (Windows agents)
 - 🗃️ Резервное копирование: Veeam, Duplicati
+- и др.
 
 ## 📂 Репозитории на Github
 
